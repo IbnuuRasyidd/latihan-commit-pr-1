@@ -1,2 +1,3 @@
  nama:ibnu 
  asal:banjarmasin 
+umur:17
